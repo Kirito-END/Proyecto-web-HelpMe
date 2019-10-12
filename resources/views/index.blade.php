@@ -140,7 +140,7 @@
 
           <div class="col-lg-6">
             <div class="why-us-content">
-              <p>Help Me funciona en dispocitivos con sistemas operaativos Android. Esta aplicación sirve para compartir fotos y comentarios sobre los personas abandonadas que se encuenran en la calle.</p>
+              <p>Help Me funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos y comentarios sobre los personas abandonadas que se encuenran en la calle.</p>
               <p>
                 Explicabo repellendus quia labore. Non optio quo ea ut ratione et quaerat. Porro facilis deleniti porro consequatur
                 et temporibus. Labore est odio.
