@@ -77,8 +77,8 @@
           <h2><span class="span">Donando</span> a los que mas lo <span class="span">Necesitan</span></h2>
         </div>
 
-        <div class="col-md-6 intro-img order-md-last order-first">
-          <img src="img/intro-img.svg" alt="" class="img-fluid">
+        <div class="col-md-6 intro-img order-md-last order-first"> 
+          <img src="img/donations.png" alt="Donations" class="img-fluid mt-5 ml-5" width="80%">
         </div>
       </div>
 
@@ -94,17 +94,9 @@
 
       <div class="container">
         <div class="row">
-
-          <div class="col-lg-5 col-md-6">
-            <div class="about-img">
-              <img src="img/about-img.jpg" alt="">
-            </div>
-          </div>
-
-          <div class="col-lg-7 col-md-6">
+          <div class="col-lg-10 col-md-6 mx-auto">
             <div class="about-content">
-              <h2>¿Qué es Help Me?</h2>
-              <h3>Donando a los que mas lo necesita</h3>
+              <h2 align="center">¿Qué es Help Me?</h2>
               <p>Help Me es una aplicación movil que hacerca a las persona que estan en abandono, viviendo en las calles al resto del mundo.</p>
               <p>Con esta aplicacion se puede transmir y da a conocer las condiciones en las que se encuentran las personas en condición de abandono, por medio de fotos y comentarios dejados por las persona que tiene esta aplicación en sus dispositivos.</p>
               <ul>
@@ -126,21 +118,20 @@
       <div class="container-fluid">
 
         <header class="section-header">
-          <h3>Como Funciona</h3>
-          <p>Comó funciona Help Me?</p>
+          <h3>Como Funciona Helpme</h3>
         </header>
 
         <div class="row">
 
           <div class="col-lg-6">
             <div class="why-us-img">
-              <img src="img/why-us.jpg" alt="" class="img-fluid">
+              <img src="img/funcionamiento.png" alt="" class="img-fluid mt-5 ml-5" width="70%">
             </div>
           </div>
 
           <div class="col-lg-6">
             <div class="why-us-content">
-              <p>Help Me funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos y comentarios sobre los personas abandonadas que se encuenran en la calle.</p>
+              <p>Helpme funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos y comentarios sobre los personas abandonadas que se encuenran en la calle.</p>
               <p>
                 Explicabo repellendus quia labore. Non optio quo ea ut ratione et quaerat. Porro facilis deleniti porro consequatur
                 et temporibus. Labore est odio.
@@ -175,27 +166,6 @@
       </div>
     </section>
 
-    <!--==========================
-      Call To Action Section
-    ============================-->
-    <section id="call-to-action" class="wow fadeInUp">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-left">
-            <h3 class="cta-title">Descarga Nuestra App</h3>
-            <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Descargar App</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- #call-to-action -->
-
-    <!--==========================
-      Portfolio Section
-    ============================-->
     <section id="portfolio">
       <div class="container">
 
@@ -215,13 +185,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app1.jpg" class="img-fluid" alt="">
+              <img src="img/App/foto.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">App 1</a></h4>
-                <p>App</p>
                 <div>
-                  <a href="img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/App/foto.png" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
             </div>
@@ -229,13 +196,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/web3.jpg" class="img-fluid" alt="">
+              <img src="img/App/foto1.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">Web 3</a></h4>
-                <p>Web</p>
                 <div>
-                  <a href="img/portfolio/web3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/App/foto1.png" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
             </div>
@@ -243,13 +207,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app2.jpg" class="img-fluid" alt="">
+              <img src="img/App/foto2.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">App 2</a></h4>
-                <p>App</p>
                 <div>
-                  <a href="img/portfolio/app2.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/App/foto2.png" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
             </div>
@@ -257,13 +218,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/card2.jpg" class="img-fluid" alt="">
+              <img src="img/App/foto3.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">Card 2</a></h4>
-                <p>Card</p>
                 <div>
-                  <a href="img/portfolio/card2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/App/foto3.png" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
             </div>
@@ -271,13 +229,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/web2.jpg" class="img-fluid" alt="">
+              <img src="img/App/foto4.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">Web 2</a></h4>
-                <p>Web</p>
                 <div>
-                  <a href="img/portfolio/web2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/App/foto4.png" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
             </div>
@@ -285,64 +240,33 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/app3.jpg" class="img-fluid" alt="">
+              <img src="img/App/foto5.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a href="#">App 3</a></h4>
-                <p>App</p>
                 <div>
-                  <a href="img/portfolio/app3.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                  <a href="img/App/foto5.png" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 1</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 3</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 1</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
         </div>
 
       </div>
     </section><!-- #portfolio -->
+
+    <section id="call-to-action" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3 class="cta-title">Descarga Nuestra App</h3>
+            <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">Descargar App</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
 
     <!--==========================
       Services Section
@@ -395,91 +319,56 @@
 
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp">
+          <div class="col-lg-4 col-md-6 wow fadeInUp">
             <div class="member">
-              <img src="img/team-1.jpg" class="img-fluid" alt="">
+              <img src="img/Desarrolladores/Cristhian.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Cristhian Cañar</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="img/Desarrolladores/Jhonatan.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Jhonatan Mariaca</h4>
-                  <span>Chief Executive Officer</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team-2.jpg" class="img-fluid" alt="">
+              <img src="img/Desarrolladores/David.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>David Argote</h4>
-                  <span>Product Manager</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
-              <img src="img/team-3.jpg" class="img-fluid" alt="">
+              <img src="img/Desarrolladores/Daniel.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Daniel Mera</h4>
-                  <span>CTO</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
+                  <h4>Daniel Alean</h4>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
-              <img src="img/team-4.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Cristian Cañar</h4>
-                  <span>Accountant</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team-4.jpg" class="img-fluid" alt="">
+              <img src="img/Desarrolladores/Edwin.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Edwin Hidalgo</h4>
-                  <span>Accountant</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
                 </div>
               </div>
             </div>
@@ -497,18 +386,15 @@
       <div class="container">
 
         <header class="section-header">
-          <h3>Our Clients</h3>
+          
         </header>
 
         <div class="owl-carousel clients-carousel">
-          <img src="img/clients/client-1.png" alt="">
-          <img src="img/clients/client-2.png" alt="">
-          <img src="img/clients/client-3.png" alt="">
-          <img src="img/clients/client-4.png" alt="">
-          <img src="img/clients/client-5.png" alt="">
-          <img src="img/clients/client-6.png" alt="">
-          <img src="img/clients/client-7.png" alt="">
-          <img src="img/clients/client-8.png" alt="">
+          <a href="https://www.telesign.com/" target="_blank"><img src="img/clients/telesign.png" alt=""></a>
+          <a href="https://developers.apidaze.io/" target="_blank"><img src="img/clients/apidaze.png" alt=""></a>
+          <a href="https://voipinnovations.com/" target="_blank"><img src="img/clients/voip.png" alt=""></a>
+          <a href="https://simwood.com/" target="_blank"><img src="img/clients/simwood.png" alt=""></a>
+          <a href="http://clustercreatic.com/es/" target="_blank"><img src="img/clients/creatic.png" alt=""></a>
         </div>
 
       </div>
