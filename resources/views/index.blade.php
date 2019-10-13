@@ -77,7 +77,7 @@
           <h2><span class="span">Donando</span> a los que mas lo <span class="span">Necesitan</span></h2>
         </div>
 
-        <div class="col-md-6 intro-img order-md-last order-first"> 
+        <div class="col-md-6 intro-img order-md-last order-first">
           <img src="img/donations.png" alt="Donations" class="img-fluid mt-5 ml-5" width="80%">
         </div>
       </div>
@@ -96,14 +96,9 @@
         <div class="row">
           <div class="col-lg-10 col-md-6 mx-auto">
             <div class="about-content">
-<<<<<<< HEAD
               <h2 align="center">¿Qué es Help Me?</h2>
-              <p>Help Me es una aplicación movil que hacerca a las persona que estan en abandono, viviendo en las calles al resto del mundo.</p>
-=======
-              <h2>¿Qué es Help Me?</h2>
               <h3>Donando a los que mas lo necesita</h3>
               <p>Help Me es una aplicación movil que hacerca a las persona que estan en estado de abandono y viviendo en las calles, al resto del mundo.</p>
->>>>>>> e973068a337c7bc35e24b3453442dd73f11ec9ea
               <p>Con esta aplicacion se puede transmir y da a conocer las condiciones en las que se encuentran las personas en condición de abandono, por medio de fotos y comentarios dejados por las persona que tiene esta aplicación en sus dispositivos.</p>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i>Dar a conocer el estado de las personas en abandono.</li>
@@ -125,6 +120,7 @@
 
         <header class="section-header">
           <h3>Como Funciona Helpme</h3>
+          <p>Comó funciona Help Me?</p>
         </header>
 
         <div class="row">
@@ -137,11 +133,7 @@
 
           <div class="col-lg-6">
             <div class="why-us-content">
-<<<<<<< HEAD
-              <p>Helpme funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos y comentarios sobre los personas abandonadas que se encuenran en la calle.</p>
-=======
               <p>Help Me funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos ,comentarios y llamar a las entidades correspondientes, y asi poder dar ayuda a las personas en estado de abandono que se encuenran en la calles.</p>
->>>>>>> e973068a337c7bc35e24b3453442dd73f11ec9ea
               <p>
                 En Help Me te podras registrar, logiarte y asi podras subir las fotos de las personas en estado de abandono. Podras comunicarte con las entidades correspondientes. Tambien podras comentar en las fotos que otros usuarios hayan subido para dar mas apoyo a esas personas desamparadas.
               </p>
@@ -173,32 +165,9 @@
       </div>
     </section>
 
-<<<<<<< HEAD
-=======
-    <!--==========================
-      Call To Action Section
-    ============================-->
-    <section id="call-to-action" class="wow fadeInUp">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-left">
-            <h3 class="cta-title">Descarga Nuestra App</h3>
-            <p class="cta-text">Aqui podras encontrar nuestra aplicacion para que la instales en tu dispocitivo movil.</p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="img/favicon.png" download="Help_Me.apk">
-              Descargar App
-            </a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- #call-to-action -->
-
     <!--==========================
       Portfolio Section
     ============================-->
->>>>>>> e973068a337c7bc35e24b3453442dd73f11ec9ea
     <section id="portfolio">
       <div class="container">
 
@@ -286,20 +255,25 @@
       </div>
     </section><!-- #portfolio -->
 
+    <!--==========================
+      Call To Action Section
+    ============================-->
     <section id="call-to-action" class="wow fadeInUp">
       <div class="container">
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
             <h3 class="cta-title">Descarga Nuestra App</h3>
-            <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="cta-text">Aqui podras encontrar nuestra aplicacion para que la instales en tu dispocitivo movil.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Descargar App</a>
+            <a class="cta-btn align-middle" href="img/favicon.png" download="Help_Me.apk">
+              Descargar App
+            </a>
           </div>
         </div>
 
       </div>
-    </section>
+    </section><!-- #call-to-action -->
 
     <!--==========================
       Services Section
@@ -335,10 +309,6 @@
       </div>
     </section><!-- #services -->
 
-    <!--==========================
-      Features Section
-    ============================-->
-    <!-- #about -->
 
     <!--==========================
       Team Section
@@ -419,7 +389,7 @@
       <div class="container">
 
         <header class="section-header">
-          
+
         </header>
 
         <div class="owl-carousel clients-carousel">
