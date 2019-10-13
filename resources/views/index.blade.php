@@ -105,7 +105,7 @@
             <div class="about-content">
               <h2>¿Qué es Help Me?</h2>
               <h3>Donando a los que mas lo necesita</h3>
-              <p>Help Me es una aplicación movil que hacerca a las persona que estan en abandono, viviendo en las calles al resto del mundo.</p>
+              <p>Help Me es una aplicación movil que hacerca a las persona que estan en estado de abandono y viviendo en las calles, al resto del mundo.</p>
               <p>Con esta aplicacion se puede transmir y da a conocer las condiciones en las que se encuentran las personas en condición de abandono, por medio de fotos y comentarios dejados por las persona que tiene esta aplicación en sus dispositivos.</p>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i>Dar a conocer el estado de las personas en abandono.</li>
@@ -140,9 +140,9 @@
 
           <div class="col-lg-6">
             <div class="why-us-content">
-              <p>Help Me funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos ,comentarios y llamar a las entidades correspondientes para darles ayuda a las personas abandonadas que se encuenran en la calle.</p>
+              <p>Help Me funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos ,comentarios y llamar a las entidades correspondientes, y asi poder dar ayuda a las personas en estado de abandono que se encuenran en la calles.</p>
               <p>
-                En help Me te podras registrar, logiarte y asi podras subir las fotos de las personas en estado de abandono. Podras comunicarte con las entidades correspondientes. Tambien podras comentar en las fotos que otros usuarios hayan subido para dar mas apoyo a esa persona desamparada.
+                En Help Me te podras registrar, logiarte y asi podras subir las fotos de las personas en estado de abandono. Podras comunicarte con las entidades correspondientes. Tambien podras comentar en las fotos que otros usuarios hayan subido para dar mas apoyo a esas personas desamparadas.
               </p>
 
               <div class="features wow bounceInUp clearfix">
@@ -154,7 +154,7 @@
               <div class="features wow bounceInUp clearfix">
                 <i class="fa fa-book" style="color: #ffb774;"></i>
                 <h4>Comenta</h4>
-                <p>Comenta que te parece la cituacion de esta persona en estado de abandono.</p>
+                <p>Comenta que te parece la situacion de esta persona en estado de abandono.</p>
               </div>
 
               <div class="features wow bounceInUp clearfix">
@@ -183,7 +183,9 @@
             <p class="cta-text">Aqui podras encontrar nuestra aplicacion para que la instales en tu dispocitivo movil.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Descargar App</a>
+            <a class="cta-btn align-middle" href="img/favicon.png" download="Help_Me.apk">
+              Descargar App
+            </a>
           </div>
         </div>
 
