@@ -75,7 +75,7 @@
             <div class="about-content">
               <h2 align="center">¿Qué es Helpme?</h2>
               <p>Helpme es una aplicación móvil que acerca a las persona que estan en estado de abandono y viviendo en las calles, al resto del mundo.</p>
-              <p>Con esta aplicación se puede transmitir y dar a conocer las condiciones en las que se encuentran las personas en condición de abandono por medio de fotos, comentarios y una breve historia de ellos, 
+              <p>Con esta aplicación se puede transmitir y dar a conocer las condiciones en las que se encuentran las personas en condición de abandono por medio de fotos, comentarios y una breve historia de ellos,
                 estos datos fueron dejados por las personas que tienen la aplicación en sus dispositivos y quiere ayudar a dichas personas en estado de abandono.</p>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i>Dar a conocer el estado de las personas en estado de abandono.</li>
@@ -106,7 +106,7 @@
           <div class="col-lg-6">
             <div class="why-us-content">
               <p>
-                Helpme funciona en dispositivos con sistema operativo android. En Helpme te podras registrar, logearte y asi podras subir las fotos de las personas en estado de abandono, podras comunicarte con las entidades correspondientes, escribir una breve historia del habitante o escribir en que situación se encuentra. 
+                Helpme funciona en dispositivos con sistema operativo android. En Helpme te podras registrar, logearte y asi podras subir las fotos de las personas en estado de abandono, podras comunicarte con las entidades correspondientes, escribir una breve historia del habitante o escribir en que situación se encuentra.
                 También podras comentar en las fotos que otros usuarios hayan subido para dar más apoyo a esas personas desamparadas.
               </p>
 
@@ -239,7 +239,7 @@
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
             <h4>Hackmons.</h4>
             <p>
-              Hackmons es un grupo de programadores los cuales desarrollarón la idea de Helpme, con ayuda del Clouster Creatic, Telesign y Simwood.
+              Hackmons es un grupo de programadores los cuales desarrollarón la idea de Helpme, con ayuda del Clouster Creatic, Telesign y <a href="{{route('indexj')}}">Simwood</a>.
             </p>
             <p>
               Este grupo tan particular esta compuesto de 5 personas las cuales son: Cristhian Cañar(Programador, Marketing), Jhonatan Mariaca (Diseñador, Programador), David Argote (Diseñador, Programador), Daniel Mera(Programador), Edwin Hidalgo(Programador) que juntos somos un gran equipo de desarrollo de aplicaciones móviles y web.
@@ -330,7 +330,7 @@
   </main>
 
   <footer id="footer">
-    <div class="container">     
+    <div class="container">
       <div class="copyright">
           <h4 class="mt-5"><strong>Información de contacto:</strong></h4>
           <p>
