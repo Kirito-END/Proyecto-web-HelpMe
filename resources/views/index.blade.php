@@ -96,8 +96,14 @@
         <div class="row">
           <div class="col-lg-10 col-md-6 mx-auto">
             <div class="about-content">
+<<<<<<< HEAD
               <h2 align="center">¿Qué es Help Me?</h2>
               <p>Help Me es una aplicación movil que hacerca a las persona que estan en abandono, viviendo en las calles al resto del mundo.</p>
+=======
+              <h2>¿Qué es Help Me?</h2>
+              <h3>Donando a los que mas lo necesita</h3>
+              <p>Help Me es una aplicación movil que hacerca a las persona que estan en estado de abandono y viviendo en las calles, al resto del mundo.</p>
+>>>>>>> e973068a337c7bc35e24b3453442dd73f11ec9ea
               <p>Con esta aplicacion se puede transmir y da a conocer las condiciones en las que se encuentran las personas en condición de abandono, por medio de fotos y comentarios dejados por las persona que tiene esta aplicación en sus dispositivos.</p>
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i>Dar a conocer el estado de las personas en abandono.</li>
@@ -131,30 +137,31 @@
 
           <div class="col-lg-6">
             <div class="why-us-content">
+<<<<<<< HEAD
               <p>Helpme funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos y comentarios sobre los personas abandonadas que se encuenran en la calle.</p>
+=======
+              <p>Help Me funciona en dispocitivos con sistemas operativos Android. Esta aplicación sirve para compartir fotos ,comentarios y llamar a las entidades correspondientes, y asi poder dar ayuda a las personas en estado de abandono que se encuenran en la calles.</p>
+>>>>>>> e973068a337c7bc35e24b3453442dd73f11ec9ea
               <p>
-                Explicabo repellendus quia labore. Non optio quo ea ut ratione et quaerat. Porro facilis deleniti porro consequatur
-                et temporibus. Labore est odio.
-
-                Odio omnis saepe qui. Veniam eaque ipsum. Ea quia voluptatum quis explicabo sed nihil repellat..
+                En Help Me te podras registrar, logiarte y asi podras subir las fotos de las personas en estado de abandono. Podras comunicarte con las entidades correspondientes. Tambien podras comentar en las fotos que otros usuarios hayan subido para dar mas apoyo a esas personas desamparadas.
               </p>
 
               <div class="features wow bounceInUp clearfix">
-                <i class="fa fa-diamond" style="color: #f058dc;"></i>
-                <h4>Corporis dolorem</h4>
-                <p>Commodi quia voluptatum. Est cupiditate voluptas quaerat officiis ex alias dignissimos et ipsum. Soluta at enim modi ut incidunt dolor et.</p>
+                <i class="fa fa-camera" style="color: #f058dc;"></i>
+                <h4>Sube Fotos</h4>
+                <p>Sube fotos y comparte como estan las personas en estado de abandono.</p>
               </div>
 
               <div class="features wow bounceInUp clearfix">
-                <i class="fa fa-object-group" style="color: #ffb774;"></i>
-                <h4>Eum ut aspernatur</h4>
-                <p>Molestias eius rerum iusto voluptas et ab cupiditate aut enim. Assumenda animi occaecati. Quo dolore fuga quasi autem aliquid ipsum odit. Perferendis doloremque iure nulla aut.</p>
+                <i class="fa fa-book" style="color: #ffb774;"></i>
+                <h4>Comenta</h4>
+                <p>Comenta que te parece la situacion de esta persona en estado de abandono.</p>
               </div>
 
               <div class="features wow bounceInUp clearfix">
-                <i class="fa fa-language" style="color: #589af1;"></i>
-                <h4>Voluptates dolores</h4>
-                <p>Voluptates nihil et quis omnis et eaque omnis sint aut. Ducimus dolorum aspernatur. Totam dolores ut enim ullam voluptas distinctio aut.</p>
+                <i class="fa fa-handshake-o" style="color: #589af1;"></i>
+                <h4>Ayuda</h4>
+                <p>Ayuda a la persona llamando a una entidad para darle una oportunidad de empezar de nuevo.</p>
               </div>
 
             </div>
@@ -166,6 +173,32 @@
       </div>
     </section>
 
+<<<<<<< HEAD
+=======
+    <!--==========================
+      Call To Action Section
+    ============================-->
+    <section id="call-to-action" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3 class="cta-title">Descarga Nuestra App</h3>
+            <p class="cta-text">Aqui podras encontrar nuestra aplicacion para que la instales en tu dispocitivo movil.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="img/favicon.png" download="Help_Me.apk">
+              Descargar App
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #call-to-action -->
+
+    <!--==========================
+      Portfolio Section
+    ============================-->
+>>>>>>> e973068a337c7bc35e24b3453442dd73f11ec9ea
     <section id="portfolio">
       <div class="container">
 
@@ -276,7 +309,7 @@
 
         <header class="section-header">
           <h3>¿Quienes Somos?</h3>
-          <p>Nosotros Somos</p>
+          <p>Nosotros Somos Hack Musketeers</p>
         </header>
 
         <div class="row feature-item mt-5 pt-5">
@@ -285,15 +318,15 @@
           </div>
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h4>Neque saepe temporibus repellat ea ipsum et. Id vel et quia tempora facere reprehenderit.</h4>
+            <h4>Hack Musketeers.</h4>
             <p>
-             Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt.
+             Hack Musketeers es un grupo de programadores los cuales fueron que inpulsaron la idea de Help Me, con ayuda del Clouster Creatic y Simwood.
             </p>
             <p>
-              Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.
+
             </p>
             <p>
-              Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint quia modi. Numquam est aut fuga mollitia exercitationem nam accusantium provident quia.
+              Este grupo tan particular esta compuesto de 5 personas que son David Argote (Disenador,Programador), Jhonatan Mariaca (Diseñador), Daniel Mera(Programador), Edwin Hidalgo(Programador), Cristian Cañar(Marketing) que juntos haces un gran equipo de desarrollo de aplicaciones.
             </p>
           </div>
 
@@ -408,17 +441,17 @@
   <footer id="footer">
     <div class="container">
       <div class="footer-links" align="center">
-        <h4>Contact Us</h4>
+        <h4>Contactanos</h4>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022<br>
-          United States <br>
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          Calle 4 # 2-80 <br>
+          Popayán<br>
+          Colombia, Cauca<br>
+          <strong>Celular:</strong> +57 3058172745<br>
+          <strong>Correo:</strong> daalean4@misena.edu.co<br>
         </p>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong>Rapid</strong>. All Rights Reserved
+        &copy; Copyright <strong>Help Me</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--
@@ -427,7 +460,7 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Rapid
         -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- #footer -->
